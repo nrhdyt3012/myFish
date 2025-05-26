@@ -6,6 +6,8 @@ Aplikasi ini dibuat untuk memenuhi submission Android Jetpack Compose di Dicodin
 
 ## View APK
 
+![View1](https://github.com/nrhdyt3012/myFish/blob/main/Screenshot_20250526_132513_Screenshot_20250526_132550.jpeg)
+![View2](https://github.com/nrhdyt3012/myFish/blob/main/Screenshot_20250526_132559_Screenshot_20250526_132656.jpeg)
 
 ## Fitur
 
