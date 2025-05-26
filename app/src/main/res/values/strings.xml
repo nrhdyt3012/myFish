@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MyFish</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_hero">Cari nama ikan</string>
+    <string name="deskripsi_cupang">Ikan cupang (Betta sp.) adalah ikan air tawar yang berasal dari Asia Tenggara. Ikan ini memiliki ciri-ciri unik, seperti bentuk sirip yang indah, warna yang menarik, dan sisik yang cemerlang. \n \n
+Ciri-ciri ikan cupang
+Tubuh ikan cupang memanjang dengan panjang sekitar 50-120 mm
+Sirip ekornya beragam, seperti ekor bertipe mahkota, ekor penuh, dan bertipe slayer
+Ekornya unik dan tegak vertikal searah tubuh
+Agresif dalam mempertahankan wilayahnya \n \n
+Habitat ikan cupang
+Habitat asalnya adalah beberapa negara di Asia Tenggara, antara lain Indonesia, Thailand, Malaysia, Brunei Darussalam, Singapura, dan Vietnam
+Dapat bertahan hidup di perairan dengan kadar oksigen rendah berkat organ labirin yang dimilikinya </string>
+    <string name="deskripsi_arwana">Ikan arwana (Scleropages formosus) adalah ikan air tawar purba yang memiliki ciri-ciri sebagai berikut:
+1.Tubuh pipih dengan punggung datar \n
+2.Sisik badan besar dan keras, sedangkan kepala tidak bersisik \n
+3.Gigi bertipe canine yang berjumlah 15 -17\n
+4.Dilengkapi dengan tutup operculum. \n
+5.Letak sirip punggung hampir sejajar dengan pangkal ekor \n
+6.Aktif dan lincah dalam pergerakannya \n
+7.Memiliki kemampuan melompat yang luar biasa \n
+8.Cenderung hidup sendirian karena memiliki sifat agresif terhadap sesama ikan arwana \n
+Arwana merupakan ikan air tawar yang sudah ada sejak Zaman Cretaceous (Zaman Kapur), periode terakhir dari era Mesozoikum (sekitar 252-65 juta tahun yang lalu).
+Di Indonesia, terdapat dua jenis arwana, yaitu arwana kalimantan (Scleropages formosus) dan arwana papua (Scleropages jardinii).
+Arwana memiliki berbagai nama lokal seperti:
+Ikan Naga, Barramundi, Saratoga, Pla Tapad, Kelesa, Siluk, Kayangan, Peyang, Tangkeleso, Aruwana/Arowana.</string>
+    <string name="deskripsi_koi">Ikan koi (Cyprinus rubrofuscus) adalah ikan hias air tawar yang memiliki ciri khas tubuh ramping, sisik besar, dan warna-warni. Ikan koi memiliki corak khas yang bervariasi sehingga sering dibanderol dengan harga tinggi. </string>
+    <string name="deskripsi_guppy">Ikan guppy atau Poecilia reticulata merupakan salah satu spesies ikan hias yang hidup di air tawar dan paling popular di dunia. Ikan guppy mampu menyesuaikan diri di berbagai tempat serta mudah beranak, di Indonesia ikan guppy dapat Anda temui di parit hingga selokan</string>
+    <string name="deskripsi_molly">Ikan molly (Poecilia sp.) adalah ikan hias air tawar yang berasal dari Meksiko. Ikan ini memiliki ciri-ciri tubuh kecil, buncit, sirip lebar dan panjang, serta moncong yang menonjol ke depan. </string>
+    <string name="deskripsi_neontetra">Neon tetra (Paracheirodon innesi), ikan hias ini termasuk ke dalam kelompok ikan hias yang menarik. Jenis neon tetra merupakan ikan asli perairan Amerika Selatan. Warna ikan yang cerah dan menyala seperti neon hal ini merupakan salah satu sebab populer jenis ikan ini sebagai ikan hias.</string>
+    <string name="deskripsi_discus">Ikan discus (Symphysodon) adalah ikan hias air tawar yang berasal dari Sungai Amazon. Ikan ini dikenal karena bentuk tubuhnya yang pipih dan warna-warnanya yang cerah. </string>
+    <string name="deskripsi_louhan">Ikan louhan adalah salah satu jenis ikan hias air tawar yang memiliki ciri-ciri unik di bagian tubuhnya, yakni bentuk kepala atau dahinya yang menegmbung dan corak sisik yang beragam.</string>
+    <string name="deskripsi_oscar">Ikan oscar dengan nama latin Astronotus ocellatus adalah salah satu jenis ikan hias air tawar yang banyak dipelihara di akuarium. Meski populer di Indonesia, ternyata ikan ini berasal dari kawasan sungai Amazon, Brazil, Amerika Selatan</string>
+    <string name="deskripsi_manfish">Ikan manfish merupakan jenis ikan hias air tawar yang seringkali disebut sebagai angelfish atau malaikat air tawar. Beberapa orang juga menjulukinya sebagai ikan layang-layang. Tubuhnya yang menyerupai busur dan anak panah menjadi alasan utama mengapa banyak penghobi tertarik untuk memelihara ikan manfish.</string>
+    <string name="deskripsi_platy">Ikan Platy (_Xiphophorus maculatus_) adalah salah satu ikan hias yang sangat digemari masyarakat karena memiliki warna yang indah dan memiliki ukuran antara 1 - 4,2 cm sehingga memiliki nilai estetis dan ekonomis. Ikan platy (_Xiphophorus maculatus_) termasuk dalam family Poeciliidae dan genus _Xiphophorus_.</string>
+    <string name="deskripsi_swordtail">Ikan swordtail (Xiphophorus helleri) adalah ikan tropis kecil yang memiliki sirip ekor memanjang seperti pedang pada ikan jantan. Ikan ini mudah dipelihara dan populer di kalangan penghobi ikan. </string>
+    <string name="deskripsi_zebradanio">Ikan zebra (Danio rerio) adalah salah satu spesies ikan bermarga Danio dari keluarga siprinide. Penggunaan nama umum "ikan zebra" pada Danio rerio didasari oleh adanya garis-garis pigmen horizontal pada tubuh ikan zebra yang menyerupai garis-garis pada tubuh zebra.</string>
+    <string name="deskripsi_corrydoras">Ikan corydoras adalah ikan lele air tawar yang berasal dari Amerika Selatan. Ikan ini termasuk ikan hias yang populer karena mudah dibudidayakan dan diekspor. </string>
+    <string name="deskripsi_sapusapu">Ikan sapu-sapu adalah ikan air tawar yang memiliki bentuk tubuh pipih dan lebar, kepala besar, dan moncong menonjol. Ikan ini berasal dari Amerika Selatan dan termasuk dalam famili Loricariidae. </string>
+    <string name="deskripsi_nila">Ikan nila (Oreochromis niloticus) adalah ikan air tawar yang berasal dari Afrika. Ikan ini memiliki tubuh memanjang dan pipih ke samping. Ikan nila memiliki warna kehitaman atau keabuan dengan beberapa pita gelap melintang. </string>
+    <string name="deskripsi_lele">Lele atau ikan keli, adalah suatu keluarga ikan yang hidup di air tawar. Lele mudah dikenali karena tubuhnya yang licin, agak pipih memanjang, serta memiliki dua kumis yang panjang, yang mencuat dari sekitar bagian mulutnya.</string>
+    <string name="deskripsi_patin">Ikan patin (Pangasius sp.) adalah ikan air tawar yang memiliki ciri-ciri tubuh memanjang, pipih, dan licin. Ikan patin tidak memiliki sisik, dan memiliki kumis yang berfungsi sebagai peraba lingkungan. </string>
+    <string name="deskripsi_gurame">Ikan gurami mempunyai bentuk badan agak panjang, pipih ke samping (compressed) dan lebar serta tipe sisik (ctenoid). Mulut ikan gurami berukuran kecil, letaknya miring dan dapat disembulkan sehingga tampak monyong. Ikan gurami memiliki sirip punggung dan dubur (anal) yang panjangnya dapat mencapai pangkal ekor.</string>
+    <string name="deskripsi_mas">Ikan mas atau Ikan karper (Cyprinus carpio) adalah ikan air tawar yang memiliki nilai ekonomis penting dan sudah tersebar luas di Indonesia. Di Indonesia, ikan mas mulai dipelihara sekitar tahun 1920-an. Ikan mas yang terdapat di Indonesia merupakan ikan mas yang dibawa dari Cina, Eropa, Taiwan dan Jepang.</string>
+</resources>
